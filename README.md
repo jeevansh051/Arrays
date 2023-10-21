@@ -28,12 +28,12 @@ A basic cpp code while describing arrays.
 
 - 1. Initialize Array with Values in C++
   We have initialized the array with values. The values enclosed in curly braces ‘{}’ are assigned to the array. Here, 1 is stored in 
-  arr[0], 2 in arr[1], and so on. Here the size of the array is 5.
+  arr[0], 2 in arr[1], and so on. Here the size of the array is 5.</br>
 ```int arr[5] = {1, 2, 3, 4, 5};```
 
 - 2. Initialize Array with Values and without Size in C++
   We have initialized the array with values but we have not declared the length of the array, therefore, the length of an array is equal to 
-  the number of elements inside curly braces.
+  the number of elements inside curly braces.</br>
 ```int arr[] = {1, 2, 3, 4, 5};```
 
 - 3. Initialize Array after Declaration (Using Loops)
